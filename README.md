@@ -11,7 +11,7 @@ Analyze historical temperature data and trends for the months of June and Decemb
 ## Surfs Up Analysis Results
 Three key differences in weather between June and December: 
 * The average temperature in June (74.9F) and December (71.0F) varies by only 3.9F.
-* The minimum temperature in June (64.0F) and December (56.0F) varies by 8.0F.
+* The minimum temperature in June (64.0F) and December (56.0F) varies by only 8.0F.
 * The maximum temperature in June (85.0F) and December (83.0F) varies by only 2.0F.
 
 ## Surfs Up Analysis Summary
