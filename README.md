@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 
 ## Surfs Up Analysis Overview
-Analyze historical temperature data and trends in Oahu, HI for the months of June and December to determine if a surf and ice cream shop business would be sustainable year-round.
+Analyze historical temperature data and trends in Oahu, HI for the months of June and December to determine if a surf and ice cream shop business would be sustainable year-round in this location.
 
 ## Surfs Up Analysis Resources
 
