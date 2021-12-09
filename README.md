@@ -6,7 +6,7 @@ Analyze historical temperature data and trends in Oahu, HI for the months of Jun
 ## Surfs Up Analysis Resources
 
 * Data Source: hawaii.sqlite
-* Software: Anaconda 4.10.3, Python 3.7.1, Jupyter Notebook 6.4.5, Pandas 1.2.4, Matplotlib 3.3.4, sqlite3 3.35.4, SQLAlchemy 1.2.27, Flask 1.1.2
+* Software: Anaconda 4.10.3, Python 3.7.1, Visual Studio Code 1.63.0, Jupyter Notebook 6.4.5, Pandas 1.2.4, Matplotlib 3.3.4, sqlite3 3.35.4, SQLAlchemy 1.2.27, Flask 1.1.2
 
 ## Surfs Up Analysis Results
 Three key differences in weather between June and December: 
