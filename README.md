@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 
 ## Surfs Up Analysis Overview
-Analyze historical temperature data and trends for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+Analyze historical temperature data and trends in Oahu, HI for the months of June and December to determine if a surf and ice cream shop business would be sustainable year-round.
 
 ## Surfs Up Analysis Resources
 
@@ -16,7 +16,7 @@ Three key differences in weather between June and December:
 
 ## Surfs Up Analysis Summary
 High-level summary of the results:
-* The moderate nature and low variance of the average (74.9F-71.0F), minimum (64.0F-56.0F), and maximum (85.0F-83.0F) temperatures in June and December in Oahu indicate that the surf and ice cream shop business would be ideally suited to this location and sustainable year-round.
+* The moderate nature and low variance of the average (74.9F-71.0F), minimum (64.0F-56.0F), and maximum (85.0F-83.0F) temperatures in June and December in Oahu, HI indicate that a surf and ice cream shop business would be ideally suited to this location and sustainable year-round.
 
 Additional queries to gather more weather data for analysis in June and December:
 * Determine number of precipitation days in each month
